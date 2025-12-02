@@ -70,7 +70,7 @@ The goal isn't prediction. It's preparation.
 
 ## Explore the Dashboard
 
-Download `Financial_Crisis_Dashboard.pbix` and open it in [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) to interact with the full analysis.
+Download `Financial_Crisis_Dashboard.pbix` and open it in [Microsoft Power BI Desktop]([https://powerbi.microsoft.com/desktop/](https://studentuncc-my.sharepoint.com/:u:/r/personal/dnadkar1_charlotte_edu/Documents/VA_Final_Project/Financial_Crisis_Dashboard.pbix?csf=1&web=1&e=K4fKda)) to interact with the full analysis.
 
 **Data Coverage**: 1970–2024 | 118 Countries | 4 Integrated Datasets
 
